@@ -187,7 +187,7 @@ export const footerData = [
     lang: "en",
     address1: "Arya Surya Enclave, Fourth Floor, Plot No – K5/475, Khata No 95/937, Mouza-Subudhi Pur, Kalinga Vihar, Patrapada, PS- Bhuabneswar-751019, Dist – Khurda, Odisha. ",
     address2: "Corporate Office: 214, Second Floor, Sector A, Pocket C, Vasant Kunj, New Delhi 110070",
-    phone: "Phone: 9777063999",
+    phone: "Phone:+91 9777063999",
     email: "Email: info@utkalinternational.com",
     products: [
       { name: "Home", path: "/" },
