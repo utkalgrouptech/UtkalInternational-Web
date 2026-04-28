@@ -6,7 +6,7 @@ export const contactData = {
       contactInfo: "Contact Information",
       phone: {
         title: "Phone Number",
-        value: "9776666555",
+        value: "+91 9777063999",
       },
       location: {
         title: "Find Location",
