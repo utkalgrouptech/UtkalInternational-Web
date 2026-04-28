@@ -205,7 +205,7 @@ export const footerData = [
     lang: "de",
     address1: "Hauptsitz: HIG-42, Jayadev Vihar, Bhubaneswar, Odisha.",
     address2: "Unternehmenssitz: 214, Zweite Etage, Sektor A, Pocket C, Vasant Kunj, Neu-Delhi 110070",
-    phone: "Telefon: 9776666555",
+    phone: "Telefon:+91 9776666555",
     email: "E-Mail: info@utkalinternational.com",
     products: [
       { name: "Startseite", path: "/" },
