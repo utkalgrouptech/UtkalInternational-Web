@@ -4,7 +4,7 @@ import { logo1, logo2, logo3, logo4, logo5, logo6 } from '../../asserts/certific
 
 const logos = [
   { src: logo1, alt: 'Logo 1' },
-  { src: logo2, alt: 'Logo 2' },
+ 
   { src: logo3, alt: 'Logo 3' },
   { src: logo4, alt: 'Logo 4' },
   { src: logo5, alt: 'Logo 5' },
