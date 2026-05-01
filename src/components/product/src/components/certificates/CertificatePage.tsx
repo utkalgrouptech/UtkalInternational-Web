@@ -1,14 +1,13 @@
 
 import React from 'react';
-import { logo1, logo2, logo3, logo4, logo5, logo6 } from '../../asserts/certificates';
+import { logo1, logo2, logo3, logo4, logo5, logo6 ,logo8,logo9,logo10, logo11,logo12} from '../../asserts/certificates';
 
 const logos = [
-  { src: logo1, alt: 'Logo 1' },
- 
-  { src: logo3, alt: 'Logo 3' },
-  { src: logo4, alt: 'Logo 4' },
-  { src: logo5, alt: 'Logo 5' },
-  { src: logo6, alt: 'Logo 6' },
+  { src: logo8, alt: 'Logo 8' },
+  { src: logo9, alt: 'Logo 9' },
+  { src: logo10, alt: 'Logo 10' },
+  { src: logo11, alt: 'Logo 11' },
+  { src: logo12, alt: 'Logo 12' },
 ];
 
 export default function CertificatePage() {
