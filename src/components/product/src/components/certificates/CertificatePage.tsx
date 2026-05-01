@@ -23,7 +23,7 @@ export default function CertificatePage() {
         {logos.map((logo, index) => (
           <div
             key={index}
-            className="w-52 h-52 sm:w-60 sm:h-60 p-8 flex items-center justify-center bg-white shadow-lg rounded-lg transform hover:scale-110 hover:rotate-3 transition-transform duration-300 ease-in-out animate-slide-up"
+            className="w-56 h-64 sm:w-64 sm:h-72 p-4 flex items-center justify-center bg-white shadow-lg rounded-lg transform hover:scale-105 transition duration-300"
           >
             <img
               src={logo.src.src}
